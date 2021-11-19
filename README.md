@@ -67,12 +67,12 @@ As I proceed with the data. It has been observed that receipts.json file was nes
 
 6. Which brand has the most transactions among users who were created within the past 6 months?
 
-Database: PostgreSQL - Presto
+Database: PostgreSQL - Presto. Read [SQL script](https://github.com/Himani-Gadve1/FetchRewards_Data_Analysis/blob/main/SQL%20script/FetchRewards.sql)
 
 # Part 3: Data quality issue:
 
 After analyzing data found couple of flaws which are listed below:
-Below couple of flaws in the data and has been described in the jupyter notebook
+Below couple of flaws in the data and has been described in the [jupyter notebook](https://github.com/Himani-Gadve1/FetchRewards_Data_Analysis/blob/main/Jupyter%20notebook/Fetch%20Rewards%20Data%20Analyst.ipynb)
 
     1. There are some null and missing values in the data. Data has be cleaned by removing these null and missing values which ever found irrelevant to the data and analysis.
     2. User data file has a duplicate User_id.
