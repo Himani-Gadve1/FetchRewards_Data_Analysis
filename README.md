@@ -1,7 +1,7 @@
 # FetchRewards_Data_Analysis
 
 ER - diagram, Data Analysis and SQL script has been uploaded on Github repositor
-Raw data files can be found here
+Raw data files can be found  [here](https://github.com/Himani-Gadve1/FetchRewards_Data_Analysis/blob/main/ER%20diagram/ER%20diagram.pdf)
 
 # Part 1: Data Modelling:
 Diagrams.net has been used to design the ER diagram.
